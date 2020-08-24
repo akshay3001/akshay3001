@@ -7,10 +7,10 @@
 </section>
 
 <div>
-<img src="./logo/backbase-logo.png" alt="Backbase Logo" />
+<img src="./akshay3001/logo/backbase-logo.png" alt="Backbase Logo" />
 </div>
-<img src="./logo/angular.png" alt="Angular Logo" />
-<img src="./logo/html5-css3-js.png" alt="HTML5 CSS3 Javascript Logo" />
+<img src="./akshay3001/logo/angular.png" alt="Angular Logo" />
+<img src="./akshay3001/logo/html5-css3-js.png" alt="HTML5 CSS3 Javascript Logo" />
 
 <!-- <img width="" src="http://naseba.com/wp-content/uploads/2019/05/backbase-logo.png" alt="Backbase" />
 https://akshay3001.github.io/akshay-portfolio/
