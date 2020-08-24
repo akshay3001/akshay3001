@@ -3,7 +3,7 @@
 </header>
 
 <section>
- <p>I'm Akshay, a self-motivated tech enthusiast Front End Developer - Angularjs 1.x, Angular 10, React JS, Vue.js, Backbase</p>
+ <p align="center">I'm Akshay, a self-motivated tech enthusiast Front End Developer - Angularjs 1.x, Angular 10, React JS, Vue.js, Backbase</p>
 </section>
 
 <div align="center">
