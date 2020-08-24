@@ -8,7 +8,7 @@
 
 <div align="center">
  <span>
-  <img height="250" width="300" src="https://github.com/akshay3001/akshay3001/blob/master/logo/Backbase%20logo.png" alt="Backbase CXP CXS Logo" />
+  <img height="150" width="150" src="https://github.com/akshay3001/akshay3001/blob/master/logo/Backbase%20logo.png" alt="Backbase CXP CXS Logo" />
  </span>
 <span>
   <img height="150" width="150" src="https://github.com/akshay3001/akshay3001/blob/master/logo/angular.png" alt="Angular Logo" />
