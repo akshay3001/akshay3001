@@ -40,7 +40,7 @@ https://akshay3001.github.io/akshay-portfolio/
 
 - 📫 How to reach me **akshay.mhatre8989@gmail.com**
 
-- ⚡ Fun fact **¯\_(ツ)_/¯**
+- ⚡ Fun fact ¯\_(ツ)_/¯
 
 <div align="center">
  <span>
