@@ -34,7 +34,7 @@ https://akshay3001.github.io/akshay-portfolio/
 
 - 👨‍💻 All of my projects are available at [https://github.com/akshay3001](https://github.com/akshay3001)
 
-- 📝 I regulary write articles on [https://akshay3001.github.io/akshay-portfolio/](https://akshay3001.github.io/akshay-portfolio/)
+- 📝 Portfolio on [https://akshay3001.github.io/akshay-portfolio/](https://akshay3001.github.io/akshay-portfolio/)
 
 - 💬 Ask me about **Angular 10, React, Vuejs, AngularJs, 1.6**
 
