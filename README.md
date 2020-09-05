@@ -25,8 +25,8 @@ https://akshay3001.github.io/akshay-portfolio/
 -->
 
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">A Backbase Certified Front End Developer having experise in Angular 10, Reactjs, Vuejs 2.x</h3>
-<p align="center">I'm Akshay, a self-motivated tech enthusiast Front End Developer - Angularjs 1.x, Angular 10, React JS, Vue.js, Backbase</p>
+<h3 align="center">Backbase Certified Front End Developer</h3>
+<p align="center">A self-motivated tech enthusiast Front End Developer with expertise - Angular 10, React JS, Vue.js 2.x, Backbase, AngularJS 1.6.9</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay3001" alt="akshay3001" /> </p>
 
