@@ -28,7 +28,7 @@ https://akshay3001.github.io/akshay-portfolio/
 <h3 align="center">Backbase Certified Front End Developer</h3>
 <p align="center">A self-motivated tech enthusiast Front End Developer with expertise - Angular 10, React JS, Vue.js 2.x, Backbase, AngularJS 1.6.9</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay3001" alt="akshay3001" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay3001" alt="akshay3001" /> </p> -->
 
 - 🔭 I’m currently working on **Backbase CXS 6.2 + Widget Architecture 3 (WA3))**
 
