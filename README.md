@@ -36,7 +36,7 @@ https://akshay3001.github.io/akshay-portfolio/
 
 - 📝 Portfolio on [https://akshay3001.github.io/akshay-portfolio/](https://akshay3001.github.io/akshay-portfolio/)
 
-- 💬 Ask me about **Angular 10, React, Vuejs, AngularJs 1.6**
+- 💬 Ask me about **Angular 10, React, Svelte, Vuejs, AngularJs 1.6**
 
 - 📫 How to reach me **akshay.mhatre8989@gmail.com**
 
