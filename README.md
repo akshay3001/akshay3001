@@ -45,7 +45,7 @@ https://akshay3001.github.io/akshay-portfolio/
   <img height="150" width="150" src="https://github.com/akshay3001/akshay3001/blob/master/logo/Backbase%20logo.png" alt="Backbase CXP CXS Logo" />
  </span>
 <span>
-  <img height="150" width="150" src="https://github.com/akshay3001/akshay3001/blob/master/logo/angular.png" alt="Angular Logo" />
+  <img height="150" width="150" src="https://github.com/akshay3001/akshay3001/blob/master/logo/angular.svg" alt="Angular Logo" />
 </span>
 </div> 
 
