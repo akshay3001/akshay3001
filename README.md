@@ -26,17 +26,15 @@ https://akshay3001.github.io/akshay-portfolio/
 
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">Backbase Certified Front End Developer</h3>
-<p align="center">A self-motivated tech enthusiast Front End Developer with expertise - Angular 10, React JS, Vue.js 2.x, Backbase, AngularJS 1.6.9</p>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay3001" alt="akshay3001" /> </p> -->
+<p align="center">A self-motivated tech enthusiast Front End Developer with expertise - Backbase (Engagement Banking Platform), Angular 19, React JS, Vue.js 2.x, Backbase CXS</p>
 
 - 🔭 I’m currently working on **Backbase CXS 6.2 + Widget Architecture 3 (WA3))**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akshay3001](https://github.com/akshay3001)
 
-- 📝 Portfolio on [https://akshay3001.github.io/akshay-portfolio/](https://akshay3001.github.io/akshay-portfolio/)
+- 📝 Portfolio on [https://akshay3001.vercel.app](https://akshay3001.vercel.app/)
 
-- 💬 Ask me about **Angular 10, React, Svelte, Vuejs, AngularJs 1.6**
+- 💬 Ask me about **Angular 19, React, Svelte, Vuejs, AngularJs 1.6**
 
 - 📫 How to reach me **akshay.mhatre8989@gmail.com**
 
