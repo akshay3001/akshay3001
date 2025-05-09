@@ -50,7 +50,7 @@ https://akshay3001.github.io/akshay-portfolio/
 </div> 
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
+<!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> -->
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/babel.svg" alt="babel" width="40" height="40"/>
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo//bootstrap.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/css.svg" alt="css3" width="40" height="40"/>
@@ -58,7 +58,7 @@ https://akshay3001.github.io/akshay-portfolio/
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/expressjs.svg" alt="express" width="40" height="40"/>
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/git.svg" alt="git" width="40" height="40"/>
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/github_light.svg" alt="github" width="40" height="40"/>
-  <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/copilit.svg" alt="github copilot" width="40" height="40"/>
+  <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/copilot.svg" alt="github copilot" width="40" height="40"/>
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/html5.svg" alt="html5" width="40" height="40"/>
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/javascript.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
@@ -67,8 +67,8 @@ https://akshay3001.github.io/akshay-portfolio/
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/svelte.svg" alt="svelte" width="40" height="40"/>
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/vue.svg" alt="vue js" width="40" height="40"/>
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/sass.svg" alt="sass" width="40" height="40"/>
-  <img src="hhttps://github.com/akshay3001/akshay3001/blob/master/logo/typescript.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/typescript.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/vue.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/nx_light.svg" alt="nx" width="40" height="40"/>
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/playwright.svg" alt="playwright" width="40" height="40"/>
   <img src="https://github.com/akshay3001/akshay3001/blob/master/logo/playwright.svg" alt="playwright" width="40" height="40"/>
